@@ -1,0 +1,7 @@
+C:\Users\anna\source\repos\NewHealthApp\NewHealthApp\bin\Debug\NewHealthApp.exe.config
+C:\Users\anna\source\repos\NewHealthApp\NewHealthApp\bin\Debug\NewHealthApp.exe
+C:\Users\anna\source\repos\NewHealthApp\NewHealthApp\bin\Debug\NewHealthApp.pdb
+C:\Users\anna\source\repos\NewHealthApp\NewHealthApp\obj\Debug\NewHealthApp.csproj.AssemblyReference.cache
+C:\Users\anna\source\repos\NewHealthApp\NewHealthApp\obj\Debug\NewHealthApp.csproj.CoreCompileInputs.cache
+C:\Users\anna\source\repos\NewHealthApp\NewHealthApp\obj\Debug\NewHealthApp.exe
+C:\Users\anna\source\repos\NewHealthApp\NewHealthApp\obj\Debug\NewHealthApp.pdb
